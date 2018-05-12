@@ -1,4 +1,8 @@
 _repo: A-Hermit-of-Carmel-and-Other-Poems_49888
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49888-h/images/cover.jpg
 creator:
   author:
     agent_name: Santayana, George
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5805
     wikipedia: http://en.wikipedia.org/wiki/George_Santayana
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49888#A-Hermit-of-Carmel-and-Other-Poems
 gutenberg_issued: '2015-09-06'
 gutenberg_type: Text
 identifiers:
